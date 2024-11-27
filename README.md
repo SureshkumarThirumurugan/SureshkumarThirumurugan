@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkumarthirumurugan&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkumarthirumurugan" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **infrastructure as code (Terraform/Ansible), container orchestration with Kubernetes, and advanced AWS enhance DevOps workflows.**
+
+- 🤝 I’m looking for help with **advanced AWS architectures and implementing best practices for DevOps pipelines.**
+
+- 💬 Ask me about **DevOps practices, cloud automation, or why Linux is always the answer!**
 
 - 📫 How to reach me **vijaysuresh412001@gmail.com**
+
+- ⚡ Fun fact **I speak fluent Bash and a bit of Pythonese!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

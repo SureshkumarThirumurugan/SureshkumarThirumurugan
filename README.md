@@ -1,7 +1,6 @@
-
 ![header](https://github.com/user-attachments/assets/2526922d-ad71-45fc-97ed-3996cb6dfe9f)
 
-<h1 align="center">Hi 👋, I'm Sureshkumar</h1>
+<h1 align="center">Hi 🤞, I'm Sureshkumar♾️</h1>
 <h3 align="center">DevOps Enthusiast | Cloud Automation and Scalable Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkumarthirumurugan&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkumarthirumurugan" /> </p>

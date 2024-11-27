@@ -1,4 +1,5 @@
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fantsitvlad.medium.com%2Fdevops-101-all-kind-of-you-need-to-know-about-devops-5bfca8656987&psig=AOvVaw3zOOjCjwHYjmdHXqaF3z6m&ust=1732782282573000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjz05mL_IkDFQAAAAAdAAAAABAc" target="_blank">DevOps 101 - All you need to know about DevOps</a>
+
+![header](https://github.com/user-attachments/assets/2526922d-ad71-45fc-97ed-3996cb6dfe9f)
 
 <h1 align="center">Hi 👋, I'm Sureshkumar</h1>
 <h3 align="center">DevOps Enthusiast | Cloud Automation and Scalable Solutions Architect</h3>

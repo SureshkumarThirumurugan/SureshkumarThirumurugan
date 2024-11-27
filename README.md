@@ -1,4 +1,4 @@
-![image1](https://github.com/user-attachments/assets/c795b992-331d-432e-b503-635f6d0a9251)
+![new image](https://github.com/user-attachments/assets/3304dc46-50bb-4a57-b552-f1ed91ef4fc4)
 
 <h1 align="center">Hi 🤞, I'm Sureshkumar♾️</h1>
 <h3 align="center">DevOps Enthusiast | Cloud Automation and Scalable Solutions Architect</h3>
